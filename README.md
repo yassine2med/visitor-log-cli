@@ -2,6 +2,8 @@
 
 # visitor-log-cli
 
+[![CI](https://github.com/yassine2med/visitor-log-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/visitor-log-cli/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 A front desk visitor log you run from the command line. Sign visitors in and out, see who is on site right now, and export a date range to CSV or JSON with minutes on site. Everything is stored in one plain CSV file, so you can open it in a spreadsheet at any time.
 
 ![Screenshot](docs/screenshot.png)
