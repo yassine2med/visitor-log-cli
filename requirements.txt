@@ -1,0 +1,2 @@
+# no third-party runtime dependencies; pytest is only needed to run the tests
+pytest
