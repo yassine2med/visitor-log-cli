@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340" role="img" aria-label="visitor-log-cli: A front desk visitor log you run from the command line.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1013"/><stop offset="1" stop-color="#171d21"/></linearGradient>
+<radialGradient id="glow" cx="0.83" cy="0.5" r="0.55"><stop offset="0" stop-color="#ff7a9c" stop-opacity="0.28"/><stop offset="1" stop-color="#ff7a9c" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#ffffff" fill-opacity="0.06"/></pattern>
+</defs>
+<g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">
+<rect width="1280" height="340" rx="22" fill="url(#bg)"/><rect width="1280" height="340" rx="22" fill="url(#dots)"/><rect width="1280" height="340" rx="22" fill="url(#glow)"/>
+<rect x="1" y="1" width="1278" height="338" rx="21" fill="none" stroke="#ff7a9c" stroke-opacity="0.35"/>
+<rect x="64" y="52" width="346" height="30" rx="15" fill="#ff7a9c"/>
+<text x="74" y="73" font-size="15" font-weight="700" fill="#0d1013">SAFETY, SPACE AND DAILY OPERATIONS</text>
+<text x="64" y="150" font-size="56" font-weight="700" fill="#f1f5ef">visitor-log-cli</text>
+<text x="64" y="196" font-size="22" fill="#aeb8ae">A front desk visitor log you run from the command line.</text>
+<rect x="64" y="276" width="78" height="32" rx="16" fill="#ff7a9c" fill-opacity="0.12" stroke="#ff7a9c" stroke-opacity="0.55"/><text x="103.0" y="297" text-anchor="middle" font-size="15" fill="#ff7a9c">Python</text>
+<circle cx="1060" cy="170" r="130" fill="none" stroke="#ff7a9c" stroke-opacity="0.10" stroke-width="1"/><circle cx="1060" cy="170" r="98" fill="none" stroke="#ff7a9c" stroke-opacity="0.17" stroke-width="2"/><circle cx="1060" cy="170" r="66" fill="none" stroke="#ff7a9c" stroke-opacity="0.24" stroke-width="3"/><circle cx="1060" cy="170" r="34" fill="none" stroke="#ff7a9c" stroke-opacity="0.31" stroke-width="4"/><circle cx="1061.8" cy="204.0" r="8" fill="#ff7a9c" fill-opacity="0.9"/><circle cx="1062.3" cy="104.0" r="6" fill="#ff7a9c" fill-opacity="0.9"/><circle cx="1138.2" cy="273.8" r="8" fill="#ff7a9c" fill-opacity="0.9"/><circle cx="1067.1" cy="136.7" r="9" fill="#ff7a9c" fill-opacity="0.9"/><circle cx="1055.3" cy="203.7" r="10" fill="#ff7a9c" fill-opacity="0.9"/><circle cx="1021.2" cy="223.4" r="7" fill="#ff7a9c" fill-opacity="0.9"/><circle cx="1061.8" cy="136.0" r="9" fill="#ff7a9c" fill-opacity="0.9"/><circle cx="1060" cy="170" r="10" fill="#ff7a9c"/>
+</g></svg>

@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="visitor-log-cli" width="100%"></p>
+
 # visitor-log-cli
 
 A front desk visitor log you run from the command line. Sign visitors in and out, see who is on site right now, and export a date range to CSV or JSON with minutes on site. Everything is stored in one plain CSV file, so you can open it in a spreadsheet at any time.
